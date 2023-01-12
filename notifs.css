@@ -1,0 +1,16 @@
+.parent {
+    display: grid;
+    grid-template-columns: repeat(8, 80px);
+    grid-gap: 100px 100px;
+    border: 1px solid black;
+}
+
+.zone {
+    background-color: chocolate;
+    border: 1px solid blue;
+}
+
+.infant {
+    background-color: white;
+    border: 1px solid blue;
+}
